@@ -84,7 +84,7 @@ public class Wrapper extends Activity
             }
         });
 
-        webView.loadUrl("http://www.claroideias.com");
+        webView.loadUrl("http://www.persono.com.br");
 
         webView.setDownloadListener(new DownloadListener() {
             @Override
